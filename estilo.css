@@ -1,0 +1,37 @@
+body{
+background-image: url(https://i.pinimg.com/originals/da/13/8e/da138ea8eba2b3fb10dbf41000ca23dd.gif);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+}
+#cabecera{
+  position: relative;
+  width: auto;
+  height: 100px;
+  background-color: green;
+}
+
+
+.numeros {
+top:113px;
+left:350px;
+width:300px;
+margin-top:10px;
+background-color:#ffff55;
+}
+
+
+#columna1 {
+position:absolute;
+top:113px;
+left:350px;
+width:500px;
+margin-top:10px;
+background-color:#orange;
+}
+#columna2 {
+margin-left:850px;
+margin-right:20px;
+margin-top:10px;
+background-color:#orange;
+}
